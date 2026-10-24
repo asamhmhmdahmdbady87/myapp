@@ -5,7 +5,7 @@ title = Osama Gaming
 
 # (str) Package name
 package.name = myapp
-
+android.accept_sdk_license = True
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
 
