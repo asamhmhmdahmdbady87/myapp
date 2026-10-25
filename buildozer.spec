@@ -40,6 +40,7 @@ version = 0.1
 # comma separated e.g. requirements = sqlite3,kivy
 requirements = python3,kivy,sdl2
 p4a.branch = master
+android.python_version = 3.10
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
