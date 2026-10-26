@@ -108,7 +108,7 @@ fullscreen = 0
 android.api = 33
 
 # (int) Minimum API your APK / AAB will support.
-#android.minapi = 21
+android.minapi = 33
 
 # (int) Android SDK version to use
 #android.sdk = 20
@@ -117,7 +117,7 @@ android.api = 33
 android.ndk = 25b
 
 # (int) Android NDK API to use. This is the minimum API your app will support, it should usually match android.minapi.
-android.ndk_api = 21
+android.ndk_api = 33
 
 # (bool) Use --private data storage (True) or --dir public storage (False)
 #android.private_storage = True
