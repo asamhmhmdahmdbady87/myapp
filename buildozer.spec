@@ -41,6 +41,7 @@ version = 0.1
 requirements = python3,kivy,sdl2
 p4a.branch = release-2024.01.21
 android.python_version = 3.10
+android.allow_minapi_ndkapi_mismatch = True
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
@@ -453,4 +454,3 @@ warn_on_root = 0
 #    Then, invoke the command line with the "demo" profile:
 #
 #buildozer --profile demo android debug
-android.allow_minapi_ndkapi_mismatch = True
